@@ -20,19 +20,22 @@
 
 - ✍️ **Ingreso de nombres**
   Los usuarios pueden escribir nombres en un campo de texto y presionar **"Añadir"** para agregarlos a la lista.
-![añadir](https://github.com/user-attachments/assets/4ebc6973-de81-45d4-8fb0-3237e97503ad)
+![añadir](https://github.com/user-attachments/assets/da96b639-f061-46fb-aff4-4f7146631f51)
 
 - ❗ **Verificación de datos**
   Si el campo está vacío o contiene caracteres no permitidos, se mostrará una alerta solicitando una entrada válida.
-![validacion de nombre](https://github.com/user-attachments/assets/1f562609-9c36-44f9-9d12-c1dbcef53e8f)
+![validacion de nombre](https://github.com/user-attachments/assets/7a3609a8-2fb2-4377-82c0-4fb81880d5fd)
+
 
 - 📜 **Lista dinámica**
   Los nombres añadidos se mostrarán automáticamente en un listado organizado.
-![Captura de pantalla 2025-02-27 213606](https://github.com/user-attachments/assets/9c64a841-3271-43fc-934c-0f23050e2af6)
+![Captura de pantalla 2025-02-27 213606](https://github.com/user-attachments/assets/2ea08763-2c61-4540-92d2-403a17515a81)
+
 
 - 🎯 **Sorteo aleatorio**
   Al hacer clic en **"Sortear Amigo"**, el sistema elegirá al azar un nombre de la lista y lo mostrará en pantalla.
-![sorteoAmigo](https://github.com/user-attachments/assets/a7426b35-0495-4d8e-92f9-f28d36bb0407)
+
+![sorteoAmigo](https://github.com/user-attachments/assets/4af9a1d5-e59f-4541-bf61-1f2c537be78d)
 
 ---
 
